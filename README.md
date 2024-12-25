@@ -34,6 +34,10 @@ There are also a few bonus options:
 >![image](/screenshots/config-eight-center.png)
 </details>
 
+## Installation
+1. Open Windhawk's GUI and click on `Create a New Mod` (in bottom-right)
+2. Copy the contents of `local@dwm11-remix.wh.cpp` into the editor, and then click `Compile Mod`
+
 ## Notes
 * **`dwm.exe` needs to be present in the process inclusion list in Windhawk's advanced settings.**
   * The mod will silently fail to inject if the process is not listed.
